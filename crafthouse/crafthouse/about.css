@@ -7,7 +7,7 @@ ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  background-color: #5495ed;
+  background-color: cyan;
   top: 0;
   width: 100%;
   overflow: hidden;
@@ -19,15 +19,15 @@ li {
 li a {
   padding: 14px 16px;
   text-decoration: none;
-  color: #4169e1;
+  color: black;
   text-align: center;
   display: block;
 }
 li a:hover {
-  background-color: #0000cd;
+  background-color: red;
 }
 .active {
-  background-color: #355ab7;
+  background-color: chartreuse;
 }
 .about {
   padding: 50px;
